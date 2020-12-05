@@ -4,7 +4,7 @@
     <property name="created">2020-12-03T14:08:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.1.0</property>
-    <property name="modified">2020-12-03T18:01:21</property>
+    <property name="modified">2020-12-05T12:07:38</property>
     <property name="originalScheme">config_logcat</property>
   </metaInfo>
   <console-font>
@@ -1331,7 +1331,7 @@
     </option>
     <option name="KOTLIN_COLON">
       <value>
-        <option name="FOREGROUND" value="11220" />
+        <option name="FOREGROUND" value="7fdbca" />
       </value>
     </option>
     <option name="KOTLIN_DOUBLE_COLON">
@@ -1358,6 +1358,11 @@
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
+    </option>
+    <option name="KOTLIN_INSTANCE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="7fdbca" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value>
