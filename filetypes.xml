@@ -8,6 +8,7 @@
       <mapping pattern="ClassPath" type="PLAIN_TEXT" />
       <mapping pattern="response_format" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
       <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
