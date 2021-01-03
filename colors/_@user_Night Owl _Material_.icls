@@ -4,7 +4,7 @@
     <property name="created">2020-12-03T15:29:16</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.1.0</property>
-    <property name="modified">2021-01-03T23:02:47</property>
+    <property name="modified">2021-01-03T23:50:08</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -1313,11 +1313,6 @@
     <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
       <value />
     </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
     <option name="KOTLIN_ARROW">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
@@ -1429,11 +1424,6 @@
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
-    </option>
-    <option name="KOTLIN_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="addb67" />
-      </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
