@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="200" />
   <JetCodeStyleSettings>
     <option name="BLANK_LINES_AROUND_BLOCK_WHEN_BRANCHES" value="1" />
     <option name="WRAP_ELVIS_EXPRESSIONS" value="2" />
