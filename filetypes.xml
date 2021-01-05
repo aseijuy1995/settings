@@ -5,8 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="response_format" type="PLAIN_TEXT" />
-      <mapping ext="dll" type="PLAIN_TEXT" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
