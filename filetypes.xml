@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="shape_slide_white_" type="PLAIN_TEXT" />
       <mapping pattern="response_format" type="PLAIN_TEXT" />
       <mapping ext="m4a" type="PLAIN_TEXT" />
       <mapping pattern="logback" type="XML" />
