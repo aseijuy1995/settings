@@ -2,7 +2,7 @@
   <component name="MaterialCustomThemeConfig">
     <option name="excludedColor" value="0e293fff" />
     <option name="accentColor" value="084d81ff" />
-    <option name="notificationsColor" value="01111dff" />
+    <option name="notificationsColor" value="014e83ff" />
     <option name="treeSelectionColor" value="13344f50" />
     <option name="highlightColor" value="084d81ff" />
     <option name="secondBorderColor" value="122d42ff" />
