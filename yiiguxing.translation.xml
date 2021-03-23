@@ -1,16 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=":app:assemble Debug" />
       <item value="Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609691742592" />
+    <option name="lastTrimTime" value="1616464642067" />
   </component>
 </application>
