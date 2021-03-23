@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Processing queued up service tasks: 1" />
       <item value="撥打電話" />
       <item value="make sure class name exists" />
       <item value=":app:assemble Debug" />
@@ -9,8 +10,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="3" />
-        <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE_TRADITIONAL" value="3" />
       </map>
     </option>
   </component>
