@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use in {@link MediaCodecList} to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. &lt;em&gt;NOTE:&lt;em&gt; These are the codecs that are returned prior to API 21, using the now deprecated static methods. public static final int REGULAR_CODECS = 0;" />
       <item value="Processing queued up service tasks: 1" />
       <item value="撥打電話" />
       <item value="make sure class name exists" />
@@ -10,12 +11,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE_TRADITIONAL" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616464642067" />
+    <option name="lastTrimTime" value="1616998518029" />
   </component>
 </application>
