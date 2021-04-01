@@ -8,6 +8,7 @@
       <mapping pattern="response_format" type="PLAIN_TEXT" />
       <mapping pattern="proto/UserPreferences" type="PLAIN_TEXT" />
       <mapping ext="m4a" type="PLAIN_TEXT" />
+      <mapping ext="pcm" type="PLAIN_TEXT" />
       <mapping pattern="logback" type="XML" />
     </extensionMap>
   </component>
