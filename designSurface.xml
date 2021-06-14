@@ -4,9 +4,18 @@
       <map>
         <entry key="..\:/AndroidProject/FreshNearBy/app/src/main/res/layout/frag_me.xml" value="0.1" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/DataStore/app/src/main/res/layout/activity_main.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_personal_center.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_sign_out_dialog.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_study_room.xml" value="0.27037037037037037" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_label.xml" value="0.33179487179487177" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_spinner_list.xml" value="0.33179487179487177" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_teacher.xml" value="0.33179487179487177" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_user_driver.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_user_feature.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_user_item.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_user_learn.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_user_setting.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_user_share.xml" value="0.27037037037037037" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable-v24/ic_baseline_add_box_24_gray.xml" value="0.259375" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable-v24/ic_baseline_audiotrack_24_green.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable-v24/shape_solid_green_corners_radius_10_padding_top_btn_5_lt_rt_10.xml" value="0.34791666666666665" />
@@ -56,12 +65,14 @@
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_notify.xml" value="0.23731884057971014" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_notify_more_dialog.xml" value="0.18177083333333333" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_notify_shinner.xml" value="0.33697916666666666" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_personal_center.xml" value="0.225" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_personal_center.xml" value="0.2" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_sign_in.xml" value="0.33" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_sign_in2.xml" value="0.3242753623188406" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_sign_out_dialog.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_start.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_study_room.xml" value="0.26666666666666666" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_teacher_detail.xml" value="0.3328125" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_teacher_detail_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_teacher_detail_dialog.xml" value="0.33" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_update_dialog.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_user.xml" value="0.2391304347826087" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_list.xml" value="0.18177083333333333" />
@@ -87,10 +98,15 @@
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_subject_label.xml" value="1.1276190476190475" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_teacher.xml" value="0.5" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_teacher_label.xml" value="0.33697916666666666" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user.xml" value="0.13994565217391305" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_item.xml" value="0.13858695652173914" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_learn.xml" value="0.14402173913043478" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_setting.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_about.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_driver.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_feature.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_info.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_item.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_learn.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_setting.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_share.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/tab_home.xml" value="0.23731884057971014" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/toolbar_main_home.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/bottom_navigation_student.xml" value="0.35" />
@@ -98,7 +114,7 @@
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/launch2_bottom_navigation.xml" value="0.33697916666666666" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/menu_bottom_navigation_coaching.xml" value="0.33697916666666666" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/menu_chat_room_media.xml" value="0.33697916666666666" />
-        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/menu_launch2_bnv.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/menu_launch2_bnv.xml" value="0.26666666666666666" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/menu_main_home.xml" value="0.3458333333333333" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/menu/menu_user_setting.xml" value="0.33697916666666666" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/HardwareModule/app/src/main/res/layout/activity_main.xml" value="0.1" />
