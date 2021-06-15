@@ -43,14 +43,24 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_baseline_network_wifi_24_white.xml" value="0.35648148148148145" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_baseline_privacy_tip_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_baseline_queue_music_24_green.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_baseline_smartphone_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_baseline_sms_24_blue.xml" value="0.23541666666666666" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_baseline_watch_later_24_blue.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_area_chart_24_gray.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_ballot_24_gray.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_connect_without_contact_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_contact_support_24_gray.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_email_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_emoji_objects_24_red.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_help_center_24_yellow.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_history_toggle_off_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_insert_chart_outlined_24_blue.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_link_24_gray.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_message_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_privacy_tip_24_gray.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_quickreply_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_sms_24_orange.xml" value="0.3671875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_today_24_gray.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/ic_twotone_watch_later_24_green.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/shape_solid_white_corners_radius_15.xml" value="0.3671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/drawable/shape_solid_white_corners_radius_30.xml" value="0.36018518518518516" />
@@ -82,7 +92,9 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_setting.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_share.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_sign_out.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_state_msg.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_study.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_user.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_start.xml" value="0.33" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_driver.xml" value="0.2368659420289855" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_setting.xml" value="0.35208333333333336" />
