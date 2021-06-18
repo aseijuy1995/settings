@@ -196,7 +196,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_study_shimmer.xml" value="0.2767210144927536" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_study_shinner.xml" value="0.2767210144927536" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_teacher.xml" value="0.24635416666666668" />
-        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_user.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_user.xml" value="0.33" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_center_user_shimmer.xml" value="0.253125" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_personal_shimmer.xml" value="0.2767210144927536" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_start.xml" value="0.33" />
@@ -221,6 +221,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/UtilModule/app/build/generated/res/resValues/debug/layout/activity_main.xml" value="0.2109375" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/UtilModule/app/build/generated/res/resValues/debug/mipmap-anydpi-v26/ic_launcher.xml" value="0.22604166666666667" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/UtilModule/app/build/generated/res/resValues/debug/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/UtilModule/app/src/main/res/drawable/ic_baseline_photo_24_gray.xml" value="0.36153846153846153" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/UtilModule/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13072916666666667" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/UtilModule/app/src/main/res/layout/activity_main.xml" value="0.22604166666666667" />
         <entry key="..\:/Users/user/Desktop/Android/Hello/app/src/main/res/layout/activity_main.xml" value="0.19270833333333334" />
