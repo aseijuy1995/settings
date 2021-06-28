@@ -165,6 +165,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_about_coaching_dialog.xml" value="0.1" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_list_shinner.xml" value="0.2368659420289855" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching.xml" value="0.2546875" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching_load.xml" value="0.2546875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_comment_list.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_comment_list_shimmer.xml" value="0.2" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_common_problem.xml" value="0.35208333333333336" />
@@ -262,6 +263,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_subject_label.xml" value="0.2546875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_teacher.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_driver.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_feature.xml" value="0.2546875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_setting.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_user_share.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/tab_chat.xml" value="0.22916666666666666" />
