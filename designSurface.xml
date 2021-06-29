@@ -204,7 +204,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_teacher_detail_dialog.xml" value="0.2767210144927536" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_teacher_dialog.xml" value="0.33" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_update_dialog.xml" value="0.2536231884057971" />
-        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask.xml" value="0.33086190917516217" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_shimmer.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_swipe.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_list.xml" value="1.0" />
@@ -222,6 +222,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_empty.xml" value="0.2558876811594203" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_empty2.xml" value="0.24270833333333333" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_error.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_label.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_launch.xml" value="0.33" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_main_home_drawer_layout.xml" value="0.25" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_main_home_shimmer.xml" value="0.209375" />
