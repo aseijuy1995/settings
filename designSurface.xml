@@ -17,6 +17,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_score_dialog.xml" value="0.1" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_sign_in.xml" value="0.171225937183384" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_sign_out_dialog.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_bottom_chat_room.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_list.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_list_swipe.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_empty.xml" value="0.35208333333333336" />
@@ -171,6 +172,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_ask.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_ask_load.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_list_shinner.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_room.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching_load.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_comment_list.xml" value="0.265625" />
