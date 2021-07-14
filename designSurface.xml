@@ -8,6 +8,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_chat_list_shinner.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_chat_room.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_chat_room_add_dialog.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_chat_room_media_dialog.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_loading_dialog.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_main.xml" value="0.2164855072463768" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/fragment_main_home.xml" value="1.0" />
@@ -205,6 +206,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_list_shinner.xml" value="0.2368659420289855" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_room.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_room_add_dialog.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_room_media_dialog.xml" value="0.2671875" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching_load.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_comment_list.xml" value="0.265625" />
@@ -218,6 +220,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_main_home_shimmer.xml" value="0.2767210144927536" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_main_home_shinner.xml" value="0.2368659420289855" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_maintain_dialog.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_media_dialog.xml" value="0.2630769230769231" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_notice.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_personal.xml" value="0.1" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_personal_center.xml" value="0.2563405797101449" />
