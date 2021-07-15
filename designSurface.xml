@@ -101,6 +101,7 @@
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_ask_room.xml" value="0.25" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat.xml" value="0.24547101449275363" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_chat_list.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_coaching.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_defend_dialog.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_exit_dialog.xml" value="0.25" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
@@ -143,6 +144,7 @@
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_media_video.xml" value="0.1875" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_owner.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_comment.xml" value="0.3328125" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_drawer_layout_coaching.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_drawer_layout_main_home.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_empty.xml" value="0.28703703703703703" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_error.xml" value="0.3328125" />
@@ -248,6 +250,9 @@
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/HappyBirthday/app/src/main/res/layout/item_list.xml" value="0.18385416666666668" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Jetpack/MyApplication/app/src/main/res/drawable/ic_baseline_photo_24_gray.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Jetpack/MyApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/Yu-Jie/Desktop/Android/Jetpack/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/Jetpack/StartApp/app/src/main/res/layout/activity_main.xml" value="0.3328125" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Yu-Jie/Desktop/Android/android-basics-kotlin-cupcake-app-starter/app/src/main/res/layout/activity_main.xml" value="0.20153985507246377" />
