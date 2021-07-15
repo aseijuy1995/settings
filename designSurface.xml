@@ -23,6 +23,7 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_list.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_list_swipe.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_room_add.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_room_media_audio.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_chat_room_other.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_empty.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/BaseModule/app/src/main/res/layout/item_error.xml" value="0.35208333333333336" />
@@ -247,6 +248,8 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_other_shimmer.xml" value="0.29259259259259257" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_enter.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_load.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_media_album.xml" value="0.27685185185185185" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_media_audio.xml" value="0.27685185185185185" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_mode.xml" value="0.28055555555555556" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_other.xml" value="0.33" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_ask_room_self.xml" value="0.28055555555555556" />
@@ -260,6 +263,9 @@
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_list.xml" value="1.0" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_list_swipe.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_add.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_media_audio.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_media_images.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_media_video.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_chat_room_other.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_coaching_shimmer.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/user/Desktop/Android/Ex/Sample/Coachingapp/app/src/main/res/layout/item_comment.xml" value="0.5" />
