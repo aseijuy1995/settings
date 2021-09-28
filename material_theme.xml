@@ -23,13 +23,14 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="indicatorStyle" value="Dot" />
+    <option name="highlightThickness" value="1" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="20" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="3ddc84" />
     <option name="secondAccentColor" value="010c15" />
-    <option name="highlightColor" value="009688" />
-    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="highlightColor" value="3ddc84" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="-1a9b2bd7:176278159ab:-8000" />
     <option name="version" value="5.5.0" />
   </component>
